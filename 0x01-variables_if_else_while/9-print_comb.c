@@ -10,7 +10,7 @@ int main(void)
 {
 	int n = 48;
 
-	// 57 Corresponds with ASCII character 9
+	/* 57 Corresponds with ASCII character 9 */
 	while (n <= 57)
 	{
 		putchar (n);
@@ -24,7 +24,7 @@ int main(void)
 		n++;
 	}
 
-	// Add new line
+	/* Add new line */
 	putchar ('\n');
 
 	return (0);
